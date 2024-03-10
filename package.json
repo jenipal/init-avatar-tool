@@ -5,7 +5,10 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "https://github.com/jenipal/init-avatar-tool.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenipal/init-avatar-tool.git"
+  },
   "license": "MIT",
   "author": "jenipal",
   "directories": {
